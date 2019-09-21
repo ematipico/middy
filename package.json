@@ -76,7 +76,7 @@
     "json-mask": "^0.3.8",
     "negotiator": "^0.6.1",
     "once": "^1.4.0",
-    "qs": "^6.6.0",
+    "qs": "6.8.0",
     "querystring": "^0.2.0"
   },
   "jest": {
